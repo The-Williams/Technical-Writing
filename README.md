@@ -275,10 +275,3 @@ Guidelines for contributors.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-Your email/twitter/etc.
-```
-
-Remember to tailor your README to your specific project needs while maintaining clarity and completeness.
